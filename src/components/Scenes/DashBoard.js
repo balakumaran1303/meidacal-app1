@@ -56,7 +56,7 @@ const styles = StyleSheet.create({
   productCard: {
     margin: 20,
     padding: 10,
-    width: 130,
+    width: 230,
     backgroundColor: '#333333',
     borderRadius: 4,
   },
@@ -77,7 +77,7 @@ const styles = StyleSheet.create({
   },
   productImagePic: {
     width: 50,
-    height: 50,
+    height: 20,
   },
   productMrp: {
     color: 'green',
@@ -94,7 +94,7 @@ export default class DashBoard extends Component {
       <View style={styles.commonContainerBg}>
         <ScrollView showsVerticalScrollIndicator={true}>
           <View style={styles.commonContainerWrapper}>
-            <Text style={styles.commonTitle}>medicalc</Text>
+            <Text style={styles.commonTitle}>Sathiya</Text>
           </View>
           <View style={styles.commonContainerWrapper}>
             <TextInput
@@ -116,7 +116,7 @@ export default class DashBoard extends Component {
               </View>
               <View style={styles.productDesc}>
                 <Text style={styles.productText}>
-                  new accu-check instant s blood
+                  By your clothes in least price in high qulaity
                 </Text>
                 <Text style={styles.productMrp}>$222</Text>
               </View>
@@ -127,7 +127,7 @@ export default class DashBoard extends Component {
               </View>
               <View style={styles.productDesc}>
                 <Text style={styles.productText}>
-                  new accu-check instant s blood
+                  By your clothes in least price in high qulaity
                 </Text>
                 <Text style={styles.productMrp}>$222</Text>
               </View>
@@ -138,7 +138,7 @@ export default class DashBoard extends Component {
               </View>
               <View style={styles.productDesc}>
                 <Text style={styles.productText}>
-                  new accu-check instant s blood
+                  By your clothes in least price in high qulaity
                 </Text>
                 <Text style={styles.productMrp}>$222</Text>
               </View>
@@ -149,7 +149,7 @@ export default class DashBoard extends Component {
               </View>
               <View style={styles.productDesc}>
                 <Text style={styles.productText}>
-                  new accu-check instant s blood
+                  By your clothes in least price in high qulaity
                 </Text>
                 <Text style={styles.productMrp}>$222</Text>
               </View>
@@ -160,7 +160,7 @@ export default class DashBoard extends Component {
               </View>
               <View style={styles.productDesc}>
                 <Text style={styles.productText}>
-                  new accu-check instant s blood
+                  By your clothes in least price in high qulaity
                 </Text>
                 <Text style={styles.productMrp}>$222</Text>
               </View>
@@ -171,80 +171,7 @@ export default class DashBoard extends Component {
               </View>
               <View style={styles.productDesc}>
                 <Text style={styles.productText}>
-                  new accu-check instant s blood
-                </Text>
-                <Text style={styles.productMrp}>$222</Text>
-              </View>
-            </View>
-          </ScrollView>
-
-					<View style={styles.product}>
-            <Text style={styles.formLabel}>FLASH DEALS</Text>
-            <Text style={(styles.formLabel, {color: 'red'})}>See All</Text>
-          </View>
-					<ScrollView horizontal={true}>
-            <View style={styles.productCard}>
-              <View style={styles.productImage}>
-                <Image source={require('../../assets/images/reward.png')} />
-              </View>
-              <View style={styles.productDesc}>
-                <Text style={styles.productText}>
-                  new accu-check instant s blood
-                </Text>
-                <Text style={styles.productMrp}>$222</Text>
-              </View>
-            </View>
-            <View style={styles.productCard}>
-              <View style={styles.productImage}>
-                <Image source={require('../../assets/images/reward.png')} />
-              </View>
-              <View style={styles.productDesc}>
-                <Text style={styles.productText}>
-                  new accu-check instant s blood
-                </Text>
-                <Text style={styles.productMrp}>$222</Text>
-              </View>
-            </View>
-            <View style={styles.productCard}>
-              <View style={styles.productImage}>
-                <Image source={require('../../assets/images/reward.png')} />
-              </View>
-              <View style={styles.productDesc}>
-                <Text style={styles.productText}>
-                  new accu-check instant s blood
-                </Text>
-                <Text style={styles.productMrp}>$222</Text>
-              </View>
-            </View>
-            <View style={styles.productCard}>
-              <View style={styles.productImage}>
-                <Image source={require('../../assets/images/reward.png')} />
-              </View>
-              <View style={styles.productDesc}>
-                <Text style={styles.productText}>
-                  new accu-check instant s blood
-                </Text>
-                <Text style={styles.productMrp}>$222</Text>
-              </View>
-            </View>
-            <View style={styles.productCard}>
-              <View style={styles.productImage}>
-                <Image source={require('../../assets/images/reward.png')} />
-              </View>
-              <View style={styles.productDesc}>
-                <Text style={styles.productText}>
-                  new accu-check instant s blood
-                </Text>
-                <Text style={styles.productMrp}>$222</Text>
-              </View>
-            </View>
-            <View style={styles.productCard}>
-              <View style={styles.productImage}>
-                <Image source={require('../../assets/images/reward.png')} />
-              </View>
-              <View style={styles.productDesc}>
-                <Text style={styles.productText}>
-                  new accu-check instant s blood
+                  By your clothes in least price in high qulaity
                 </Text>
                 <Text style={styles.productMrp}>$222</Text>
               </View>
@@ -262,7 +189,7 @@ export default class DashBoard extends Component {
               </View>
               <View style={styles.productDesc}>
                 <Text style={styles.productText}>
-                  new accu-check instant s blood
+                  By your clothes in least price in high qulaity
                 </Text>
                 <Text style={styles.productMrp}>$222</Text>
               </View>
@@ -273,7 +200,7 @@ export default class DashBoard extends Component {
               </View>
               <View style={styles.productDesc}>
                 <Text style={styles.productText}>
-                  new accu-check instant s blood
+                  By your clothes in least price in high qulaity
                 </Text>
                 <Text style={styles.productMrp}>$222</Text>
               </View>
@@ -284,7 +211,7 @@ export default class DashBoard extends Component {
               </View>
               <View style={styles.productDesc}>
                 <Text style={styles.productText}>
-                  new accu-check instant s blood
+                  By your clothes in least price in high qulaity
                 </Text>
                 <Text style={styles.productMrp}>$222</Text>
               </View>
@@ -295,7 +222,7 @@ export default class DashBoard extends Component {
               </View>
               <View style={styles.productDesc}>
                 <Text style={styles.productText}>
-                  new accu-check instant s blood
+                  By your clothes in least price in high qulaity
                 </Text>
                 <Text style={styles.productMrp}>$222</Text>
               </View>
@@ -306,7 +233,7 @@ export default class DashBoard extends Component {
               </View>
               <View style={styles.productDesc}>
                 <Text style={styles.productText}>
-                  new accu-check instant s blood
+                  By your clothes in least price in high qulaity
                 </Text>
                 <Text style={styles.productMrp}>$222</Text>
               </View>
@@ -317,7 +244,80 @@ export default class DashBoard extends Component {
               </View>
               <View style={styles.productDesc}>
                 <Text style={styles.productText}>
-                  new accu-check instant s blood
+                  By your clothes in least price in high qulaity
+                </Text>
+                <Text style={styles.productMrp}>$222</Text>
+              </View>
+            </View>
+          </ScrollView>
+
+					<View style={styles.product}>
+            <Text style={styles.formLabel}>FLASH DEALS</Text>
+            <Text style={(styles.formLabel, {color: 'red'})}>See All</Text>
+          </View>
+					<ScrollView horizontal={true}>
+            <View style={styles.productCard}>
+              <View style={styles.productImage}>
+                <Image source={require('../../assets/images/reward.png')} />
+              </View>
+              <View style={styles.productDesc}>
+                <Text style={styles.productText}>
+                  By your clothes in least price in high qulaity
+                </Text>
+                <Text style={styles.productMrp}>$222</Text>
+              </View>
+            </View>
+            <View style={styles.productCard}>
+              <View style={styles.productImage}>
+                <Image source={require('../../assets/images/reward.png')} />
+              </View>
+              <View style={styles.productDesc}>
+                <Text style={styles.productText}>
+                  By your clothes in least price in high qulaity
+                </Text>
+                <Text style={styles.productMrp}>$222</Text>
+              </View>
+            </View>
+            <View style={styles.productCard}>
+              <View style={styles.productImage}>
+                <Image source={require('../../assets/images/reward.png')} />
+              </View>
+              <View style={styles.productDesc}>
+                <Text style={styles.productText}>
+                  By your clothes in least price in high qulaity
+                </Text>
+                <Text style={styles.productMrp}>$222</Text>
+              </View>
+            </View>
+            <View style={styles.productCard}>
+              <View style={styles.productImage}>
+                <Image source={require('../../assets/images/reward.png')} />
+              </View>
+              <View style={styles.productDesc}>
+                <Text style={styles.productText}>
+                  By your clothes in least price in high qulaity
+                </Text>
+                <Text style={styles.productMrp}>$222</Text>
+              </View>
+            </View>
+            <View style={styles.productCard}>
+              <View style={styles.productImage}>
+                <Image source={require('../../assets/images/reward.png')} />
+              </View>
+              <View style={styles.productDesc}>
+                <Text style={styles.productText}>
+                  By your clothes in least price in high qulaity
+                </Text>
+                <Text style={styles.productMrp}>$222</Text>
+              </View>
+            </View>
+            <View style={styles.productCard}>
+              <View style={styles.productImage}>
+                <Image source={require('../../assets/images/reward.png')} />
+              </View>
+              <View style={styles.productDesc}>
+                <Text style={styles.productText}>
+                  By your clothes in least price in high qulaity
                 </Text>
                 <Text style={styles.productMrp}>$222</Text>
               </View>

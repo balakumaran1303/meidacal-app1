@@ -18,28 +18,20 @@ const styles = StyleSheet.create({
 const slides = [
   {
     key: 'somethun',
-    title: 'Title 1',
+    title: 'sathiya',
     text: 'Description.\nSay something cool',
-    image: require('../../assets/intro.jpeg'),
+    image: require('../../assets/intro.jpg'),
     imageStyle: styles.image,
     backgroundColor: '#59b2ab',
   },
   {
     key: 'somethun-dos',
-    title: 'Title 2',
+    title: 'sathiya',
     text: 'Other cool stuff',
-    image: require('../../assets/intro3.jpeg'),
+    image: require('../../assets/intro1.png'),
     imageStyle: styles.image,
     backgroundColor: '#febe29',
-  },
-  {
-    key: 'somethun1',
-    title: 'Rocket guy',
-    text: "I'm already out of descriptions\n\nLorem ipsum bla bla bla",
-    image: require('../../assets/intro2.jpeg'),
-    imageStyle: styles.image,
-    backgroundColor: '#22bcb5',
-  },
+  }
 ];
 
 export default class Intro extends Component {
